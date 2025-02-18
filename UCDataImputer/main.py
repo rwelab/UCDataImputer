@@ -1,7 +1,7 @@
 import pandas as pd
-from GoktugTest.input_processing import ask_for_inputs_from_csv
-from GoktugTest.model_selection import determine_model, load_model
-from GoktugTest.mayo_score import calculate_mayo_score
+from UCDataImputer.input_processing import ask_for_inputs_from_csv
+from UCDataImputer.model_selection import determine_model, load_model
+from UCDataImputer.mayo_score import calculate_mayo_score
 
 def main(input_csv, output_csv):
     """

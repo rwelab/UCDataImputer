@@ -141,11 +141,7 @@ For questions or issues, reach out via:
 
 ## **📌 TODO**
 🔹 Upload to PyPI  
-<<<<<<< HEAD
 
 ```
 
 ---
-=======
-```
->>>>>>> 553cc3a (Updated README and added new folder to UCDataImputer)

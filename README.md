@@ -59,7 +59,7 @@ To compute MAYO scores, the trained machine learning models must be downloaded s
 **After downloading, place the `.pkl` model files in the `models/` directory within your project.**  
 
 ```sh
-UCDataImputer/models/
+UCDataImputer/UCDataImputer/models/
 ├── model1.pkl
 ├── model2.pkl
 ├── model3.pkl

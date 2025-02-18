@@ -9,7 +9,7 @@
 Once available, you can install it using:
 
 ```sh
-pip install ucdataimputer
+pip install UCDataImputer
 ```
 
 For now, you can install directly from GitHub:
@@ -25,12 +25,12 @@ pip install git+https://github.com/rwelab/UCDataImputer.git
 After installation, you can execute the package from the terminal:
 
 ```sh
-ucdataimputer --input path/to/input.csv --output path/to/output.csv
+UCDataImputer --input path/to/input.csv --output path/to/output.csv
 ```
 
 **Example:**
 ```sh
-ucdataimputer --input ~/Desktop/synthetic_data.csv --output ~/Desktop/mayo_scores_output.csv
+UCDataImputer --input ~/Desktop/synthetic_data.csv --output ~/Desktop/mayo_scores_output.csv
 ```
 
 This processes the **input CSV** and saves the **MAYO scores** to the output file.
@@ -41,7 +41,7 @@ This processes the **input CSV** and saves the **MAYO scores** to the output fil
 You can also **import and use it within Python**:
 
 ```python
-from ucdataimputer.main import main
+from UCDataImputer.main import main
 
 # Run with input and output file paths
 main("input.csv", "output.csv")

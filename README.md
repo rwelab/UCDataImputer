@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-=======
-### **Updated README: UCDataImputer**  
-
-```markdown
->>>>>>> 553cc3a (Updated README and added new folder to UCDataImputer)
 # 🏥 UCDataImputer - Clinical Data Processing & MAYO Score Calculation
 
 **UCDataImputer** is a Python package designed to **compute MAYO scores from simple clinical data**. It validates patient records, maps clinical values correctly, and allows both **command-line execution and Python integration**.
@@ -55,7 +49,6 @@ main("input.csv", "output.csv")
 
 ---
 
-<<<<<<< HEAD
 =======
 ## **📥 Download Required Models**
 To compute MAYO scores, the trained machine learning models must be downloaded separately.  
@@ -75,7 +68,6 @@ UCDataImputer/models/
 
 ---
 
->>>>>>> 553cc3a (Updated README and added new folder to UCDataImputer)
 ## **📝 Expected Input Format**
 The input **CSV file** must contain the following columns:
 

@@ -63,7 +63,7 @@ The input **CSV file** must contain the following columns:
 | `endoscopy`      | Mucosal appearance at endoscopy(`0`, `1`, `2`, `3`)|
 | `stool_freq`     | Stool frequency (`0`, `1`)                         |
 | `rectal_bleed`   | Rectal bleeding (`0`, `1`)                         |
-| `SMOKING`        | Smoking status (`user`, `never`, `ex-user`, etc.)  |
+| `SMOKING`        | Smoking status (`user`, `never`, `ex-user`)        |
 | `crp`            | C-reactive protein level                           |
 | `TREATMENT_PHASE`| Treatment phase (`0`, `1`, `2`)                    |
 

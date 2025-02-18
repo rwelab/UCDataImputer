@@ -8,14 +8,14 @@ def read_readme():
     return ""
 
 setup(
-    name="GoktugTest1",
+    name="UcDataImputer",
     version="0.1.0",
-    author="Göktuğ",
-    author_email="goktugonal76@gmail.com",
-    description="A simple package to greet users",
-    long_description=read_readme(),  # Use the safe function
+    author="Goktug Onal",
+    author_email="goktug.onal@ucsf.edu",
+    description="Data Imputer for Ulcerative Colitis Studies",
+    long_description=read_readme(),
     long_description_content_type="text/markdown",
-    #url="https://github.com/GoktugSuvorun/GoktugTest.git",
+    url="https://github.com/rwelab/UCDataImputer.git",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",

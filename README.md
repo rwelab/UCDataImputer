@@ -115,7 +115,7 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for d
 
 ## **📞 Contact**
 For questions or issues, reach out via:
-📧 **Email**: your.email@example.com  
+📧 **Email**: goktug.onal@ucsf.edu  
 🔗 **GitHub Issues**: [Report a Bug](https://github.com/rwelab/UCDataImputer/issues)
 
 ---

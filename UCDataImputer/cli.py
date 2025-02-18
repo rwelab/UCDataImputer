@@ -1,5 +1,5 @@
 import argparse
-from GoktugTest.main import main
+from UCDataImputer.main import main
 
 def cli():
     """

@@ -1,4 +1,4 @@
-from GoktugTest.model_selection import adjust_features_based_on_model
+from UCDataImputer.model_selection import adjust_features_based_on_model
 import pandas as pd
 
 def calculate_mayo_score(inputs, model, model_filename):
